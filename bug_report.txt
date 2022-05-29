@@ -1,1 +1,7 @@
-
+Bug_report_id: 1,
+Summary: Engineering calculator is displayed without the buttons required for this type of calculator,
+Severity: Major,
+Description: When changing a regular calculator to an engineering one, additional buttons that an engineering calculator should have, do not appear on the screen,
+Steps to reproduce: 1. Open calc.exe, 2. Click 'Выбор', 3. Сlick 'Инженерный',
+Actual result: Engineering calculator is displayed without the buttons required for this type of calculator,
+Expected result: Engineering calculator is displayed with the buttons required for this type of calculator
