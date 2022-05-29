@@ -1,0 +1,6 @@
+Preferences:
+1) film: ratatouille,
+2) TV series: unbelivable,
+3) favourite food: pasta carbonara,
+4) favourite season: spring,
+5) country for visit: Australia
